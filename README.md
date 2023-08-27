@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/x.svg)](https://twitter.com/nwilasted#gh-light-mode-only)
-[![website](./img/x.svg)](https://twitter.com/nwilasted#gh-dark-mode-only)
+[![website](./img/x-light.svg)](https://twitter.com/nwilasted#gh-light-mode-only)
+[![website](./img/x-dark.svg)](https://twitter.com/nwilasted#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/mhdirajabi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mhdirajabi#gh-dark-mode-only)
