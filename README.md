@@ -13,4 +13,6 @@ Other                      5 hrs 48 mins   -------------------------   01.77 %
 
 <!--END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@ea3c6116-ad49-47c7-861b-6b3a806add34/2cfca63e-30e3-408d-ae21-5e6ad02acedf.svg"></embed></figure>
+<figure>
+  <embed src="https://wakatime.com/share/@ea3c6116-ad49-47c7-861b-6b3a806add34/2cfca63e-30e3-408d-ae21-5e6ad02acedf.svg"></embed>
+</figure>
