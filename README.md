@@ -18,7 +18,18 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/mhdirjb#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/mhdirjb#gh-dark-mode-only)
 
-<!-- ### Languages and Tools: -->
+###  Top Languages and Tools:
+
+![Top Langs](https://github-readme-stats-beta-vert.vercel.app/api/top-langs/?username=mhdirajabi)
+
+<br />
+<br />
+
+---
+
+### Wakatime Stats:
+
+![Mehdi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhdirajabi)
 
 <br />
 <br />
@@ -37,7 +48,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mhdirajabi's GitHub Stats" src="https://github-readme-stats-beta-vert.vercel.app/api?username=mhdirajabi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="mhdirajabi's GitHub Stats" src="https://github-readme-stats-beta-vert.vercel.app/api?username=mhdirajabi&show_icons=true&hide_border=false&theme=dracula&theme=transparent"/>
 
 </details>
 
