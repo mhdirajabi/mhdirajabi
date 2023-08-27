@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/nwilasted#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/nwilasted#gh-dark-mode-only)
+[![website]([<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg>])](https://twitter.com/nwilasted#gh-light-mode-only)
+[![website]([<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg>])](https://twitter.com/nwilasted#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/mhdirajabi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mhdirajabi#gh-dark-mode-only)
@@ -41,6 +41,6 @@
 
 </details>
 
-[twitter]: https://twitter.com/nwilasted
+[X]: https://twitter.com/nwilasted
 [instagram]: https://instagram.com/mhdirjb
 [linkedin]: https://linkedin.com/in/mhdirajabi
