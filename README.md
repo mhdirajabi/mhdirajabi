@@ -16,13 +16,13 @@
 
 ### Top Languages and Tools:
 
-![Top Langs](https://github-readme-stats-beta-vert.vercel.app/api/top-langs/?username=mhdirajabi)
+![Top Langs](https://github-readme-stats-beta-vert.vercel.app/api/top-langs/?username=mhdirajabi&theme=dracula)
 
 ---
 
 ### Mehdi's Wakatime Stats:
 
-![Mehdi's wakatime stats](https://github-readme-stats-beta-vert.vercel.app/api/wakatime?username=mhdirajabi)
+![Mehdi's wakatime stats](https://github-readme-stats-beta-vert.vercel.app/api/wakatime?username=mhdirajabi&theme=dracula)
 
 ---
 
